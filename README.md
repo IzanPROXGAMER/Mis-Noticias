@@ -1,8 +1,7 @@
 ***NOTICIAS:***
 
-* haré una actualización de Luigi Theme Assistant que traerá con ella un tema inspirado en wii y un paquete para editar el cursor de tu pc al estilo wii y también haré una versión portable, que quiere decir?, que no necesitará python instalado pero le baja el rendemiento por el tema de la carga del config_desktop ahora en .exe
 * se le va a quitar el soporte temporalmente a Luigi Prox Community y Luigi Assistant
-
+* La actualización de Luigi Theme Assistant me está costando un poco debido a muchos errores inesperados tanto la versión original como la portable así que subire el tema de wii directamente por tiempo limitado, solo una semana t después se borrará (cabe decir que esto no tiene objetivo de copyright, solo de fan). todos los enlaces externos los dejaré en el release, tanto de la imagen como de los cursores
 
 **NOTICIA MUY IMPROTANTE:**
 
